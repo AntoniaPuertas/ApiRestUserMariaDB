@@ -1,0 +1,9 @@
+INSERT INTO users (name, email) VALUES ('Usuario1', 'usuario1@gmail.com');
+INSERT INTO users (name, email) VALUES ('Usuario2', 'usuario2@gmail.com');
+INSERT INTO users (name, email) VALUES ('Usuario3', 'usuario3@gmail.com');
+INSERT INTO users (name, email) VALUES ('Usuario4', 'usuario4@gmail.com');
+INSERT INTO users (name, email) VALUES ('Usuario5', 'usuario5@gmail.com');
+INSERT INTO users (name, email) VALUES ('Usuario6', 'usuario6@gmail.com');
+INSERT INTO users (name, email) VALUES ('Usuario7', 'usuario7@gmail.com');
+INSERT INTO users (name, email) VALUES ('Usuario8', 'usuario8@gmail.com');
+INSERT INTO users (name, email) VALUES ('Usuario9', 'usuario9@gmail.com');
